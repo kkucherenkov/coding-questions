@@ -56,7 +56,7 @@ By default, the time complexity indicates the worst time and the space complexit
 * [Find the maximal item a[i], such that a[i]=a[x]+a[y] in an array](https://github.com/checkcheckzz/coding-problems/blob/master/problem/Array/Find%20the%20max%20item%20A%5Bi%5D,%20such%20that%20A%5Bi%5D=A%5Bx%5D+A%5By%5D.cpp)
 * [Find the minimal difference between two sorted arrays](https://github.com/checkcheckzz/coding-problems/blob/master/problem/Array/Find%20the%20minimal%20difference%20between%20two%20sorted%20arrays.cpp)
 * Form an ascending array by removing elements from an existed array
-* Given an array a[i], build b[i] = a[0]a[1]…a[n-1]/a[i] [c++](https://github.com/kkucherenkov/coding-problem/blob/master/c++/Array/Build%20b%5Bi%5D.cpp) [java](https://github.com/kkucherenkov/coding-problem/blob/master/java/Array/BuildArrayOfProducts.java)
+* Given an array a[i], build b[i] = a[0]a[1]…a[n-1]/a[i] [c++](https://github.com/kkucherenkov/coding-questions/blob/master/c%2B%2B/Array/Build%20b%5Bi%5D.cpp) [java](https://github.com/kkucherenkov/coding-questions/blob/master/java/Array/BuildArrayOfProducts.java)
 * [Given an array and a number k, check if there exists an element arr[i] such that its duplicates lies in arr[i-k] and arr[i+k]](https://github.com/checkcheckzz/coding-problems/blob/master/problem/Array/Given%20an%20array%20and%20a%20number%20k.cpp)
 * [Given an array of size n, the array contains numbers in range from 0 to k-1 where k is a positive integer and k <= n. Find the maximum repeating number in this array](https://github.com/checkcheckzz/coding-problems/blob/master/problem/Array/Find%20the%20maximum%20repeating%20number%20in%20this%20array.cpp)
 * Given an integer array and a range, find all subarrays such that their sum lie in the range
