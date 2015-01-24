@@ -42,7 +42,7 @@ By default, the time complexity indicates the worst time and the space complexit
 ####[[⬆]](#toc) <a name='array'>Array:</a>
 
 * Calculate the rotation distance for a sorted rotated array [[c++](https://github.com/kkucherenkov/coding-questions/blob/master/c%2B%2B/Array/Rotatearraydistance.cpp)] [[java](https://github.com/kkucherenkov/coding-questions/blob/master/java/Array/RotateArrayDistance.java)]
-* Celebrity problem
+* Celebrity problem [[java] (https://github.com/kkucherenkov/coding-questions/blob/master/java/Array/TheCelebrityProblem.java)]
 * [Detect cycle in an array](https://github.com/checkcheckzz/coding-problems/blob/master/problem/Array/Detect%20cycle%20in%20an%20array.cpp)
 * [Detect the longest cycle in an array](https://github.com/checkcheckzz/coding-problems/blob/master/problem/Array/Detect%20the%20longest%20cycle%20in%20an%20array.cpp)
 * [Diagonal elements sum of a spiral matrix](https://github.com/checkcheckzz/coding-problems/blob/master/problem/Array/Diagonal%20elements%20sum%20of%20spiral%20matrix.cpp)

@@ -1,14 +1,11 @@
 /*
-
 There is an non negative integer array. Each number represent the author ID of a post in a forum.
 We already know that an author writes more than half of all posts in this forum, find this author ID.
-
 
 Follow up: suppose that three authors each writes more than 1/4 posts in this forum, find the three authors.
 */
 
 /*
-
 solution1: brute force. sort the array first, and scan the array once to find the target ID. 
 O(nlogn) time, O(1) space
 
@@ -16,8 +13,8 @@ solution2: whenever we delete two different IDs, in the rest array, there are st
 Just scan the array, if the same Id appears, increase a count, otherwise, decrease a count. when the count is zero,
 record the id. Return the id at last.
 O(n) time, O(1) space
-
 */
+
 #include<iostream>
 using namespace std;
 
