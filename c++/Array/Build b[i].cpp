@@ -22,16 +22,16 @@ Output: array output[] is the output array
  
 void BuildArray(int input[], int len, int output[]) {
     output[len-1] = 1;
-    // output[i]=input[i+1]*intput[i]*......*input[n-1];
+    // output[i]=input[i+1]*input[i]*......*input[n-1];
     for (int i = len-2; i >= 0; i--) {  
-        output[i] = output[i+1] * intput[i+1];
+        output[i] = output[i+1] * input[i+1];
     }	
-    int allrestinput = 1;
+    int allRestInput = 1;
     
     // add input[0]*...input[i-1] to output[i]
     for (int i = 1; i < len; i++) {
-        allrestinput *= input[i-1];
-        output[i] = output[i] * allrestinput;
+        allRestInput *= input[i-1];
+        output[i] = output[i] * allRestInput;
     }   
 }    
   
